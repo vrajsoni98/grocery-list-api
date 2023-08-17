@@ -15,7 +15,7 @@ The Grocery List Application is designed for single-user usage, ideally tailored
 
 Make sure you have the following tools installed:
 
-- [Python](https://nodejs.org/) (with pip)
+- [Python](https://www.python.org/downloads/) (with pip)
 
 ### Installation
 
