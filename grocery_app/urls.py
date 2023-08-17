@@ -18,4 +18,4 @@ urlpatterns = [
 
     # URL for viewing, updating, and deleting a specific grocery item within a specific grocery list
     path('grocerylists/<int:list_id>/groceryitems/<int:pk>/', GroceryItemDetail.as_view(), name='groceryitem-detail-for-list'),
-]
+] 
